@@ -1,2 +1,2 @@
 # DevOps_Practicals
-## Repository for DevOps Git Practical 2
+### Repository for DevOps Git Practical 2
