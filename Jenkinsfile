@@ -11,5 +11,10 @@ pipeline {
             sh 'python --version'
             }
         }
+        stage('Three'){
+            steps{
+            sh 'python3 hello_git.py'
+            }
+        }
 }
 }
