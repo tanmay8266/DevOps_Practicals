@@ -3,7 +3,8 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh 'python --version'
+                echo 'Hello this is tanmy8266 from GitHub'
             }
     }
+}
 }
